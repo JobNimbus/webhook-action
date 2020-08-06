@@ -1,8 +1,5 @@
 # 🚀 Webhook Action
 
-[![GitHub Release][ico-release]][link-github-release]
-[![License][ico-license]](LICENSE)
-
 A Github Action for sending data to an endpoint
 
 Supports all [workflow event types](https://developer.github.com/webhooks/#events)
