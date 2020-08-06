@@ -50,15 +50,3 @@ It is **highly** recommended to use the action is an explicit commit SHA-1:
 The action is expecting a single environment variable of your data. This can be pre-encoded json string, or just a message. Format it to how your API is expecting.
 
 * **`WEBHOOK_URL`** (**required**): This is the webhook url to send the payload to.
-
-## Issues
-
-If you find any issues or have an improvement feel free to [submit an issue](https://github.com/JobNimbus/webhook-action/issues/new)
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE) for more information.
-
-[ico-release]: https://img.shields.io/github/tag/JobNimbus/webhook-action.svg
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg
-[link-github-release]: https://github.com/JobNimbus/webhook-action/releases
